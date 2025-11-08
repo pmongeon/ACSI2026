@@ -24,44 +24,45 @@ social:
 #  link: https://twitter.com/cais_acsi
   
 ---
-![Picture of bannerhead](/banière.jpeg)
 
-## Bienvenue au congrès de l'ACSI 2025
 
-L’Association canadienne des sciences de l’information (ACSI/CAIS) est heureuse d’annoncer son 53e congrès annuel qui se tiendra en <strong>format hybride</strong> à l’Université Dalhousie, dans la belle et dynamique ville côtière de <strong>Halifax, Nouvelle-Écosse, du 27 au 29 mai 2025</strong>.
+## Bienvenue au congrès de l'ACSI 2026
 
-Le congrès de cette année est organisé par le Département des sciences de l’information de l’Université Dalhousie. 
+L'Association canadienne des sciences de l'information (ACSI/ACSI) invite les participants à soumettre leurs propositions pour sa 54e conférence annuelle, qui se tiendra du [15 au 19 ou du 22 au 26] juin 2026. La conférence sera gratuite et ouverte à tous, en ligne, et sera organisée par la School of Information de l'University of British Columbia.
 
-Nous avons hâte de vous accueillir à Halifax!
+<strong>Appel à communications:</strong>
+Le thème de cette année, « Information et réparation », est axé sur le travail de maintenance et de réparation qui est toujours nécessaire, mais rarement salué, dans les systèmes d'information. L'attention et les ressources des chercheurs sont souvent dirigées vers la nouveauté, la conceptualisation et le design de systèmes et d'interventions innovants.
+Cette tendance risque toutefois de nous faire ignorer les occasions d'apprendre à partir de la vaste quantité de connaissances, de pratiques et d'expertise technique qui entrent dans la surveillance, l'ajustement et la gestion des changements au sein des composants critiques des systèmes d'information à long terme/continus/permanents.
+Nous sommes particulièrement intéressés par les perspectives issues des sciences de l’information sur les pratiques de rejet ou de réutilisation, sur le travail réparateur, et sur les théories de la réparation. Nous invitons des réflexions créatives et ouvertes sur ce qui est réparé et entretenu, ainsi que sur la réparation elle-même en tant que travail informationnel.
+Comme l’ACSI cherche à être un lieu d’échange pour les sciences de l'information à travers le Canada, notre conférence annuelle développe et soutient la recherche dans les domaines suivants :
+●	Recherche d'informations et comportement informationnel
+●	Littératie informationnelle et formation
+●	Gestion et organisation des connaissances
+●	Technologies et systèmes d'information
+●	Médias sociaux
+●	Bibliométrie et communication savante
+●	Politique et éthique de l'information
+●	Patrimoine culturel et préservation
+●	Gestion de l'information sur la santé
+●	Diversité, équité et inclusion dans les sciences de l'information<br>
+Les perspectives diverses (théoriques ou appliquées) ainsi que les méthodologies variées et innovantes sont les bienvenues.
+
+
 
 ## Dates importantes
-<strong>Les soumissions sont fermées.</strong>
-- <strong>Date limite de soumission</strong> : ~~8 janvier 2025~~ 20 janvier 2025, minuit heure du Pacifique.
-- <strong>Notification d’acceptation</strong> : Au plus tard le 15 mars 2025.
-- <strong>Soumission des versions finales</strong> : Au plus tard le 30 avril 2025.
-- <strong>Congrès</strong> : 27-29 mai 2025.
+- Date limite de soumission : <strong>31 janvier</strong>
+- Date limite pour les évaluations par les pairs : 1er mars
+- Notification aux auteurs : 23 mars
+- Date limite pour les soumissions finales : 11 mai
+
 
 ## Comité organisateur
-- Philippe Mongeon, Université Dalhousie
-- Maddie Hare, Université d’Ottawa
-- Geoff Krause, Université Dalhousie
-- Constance Poitras, Université de Montréal
-- Poppy Riddle, Université Dalhousie
-- Sandra Toze, Université Dalhousie
+Julia Bullard
+Melissa Nelson
+Cameron Pierson
+Lisa Nathan
+
 
 Pour plus d’informations, contactez-nous à l’adresse suivante : <a href=“mailto:conference@cais-acsi.ca”>conference@cais-acsi.ca</a>.
 
-## Traductuers
-Merci aux étudiants de l'Université de Montréal: Ambre Lefaix-Franchi, Faye Daw-Yi Fung, and Alice Aubin-Mercier pour leur aide avec la traduction des actes du congrès.
 
-## Bénévoles
-Merci à notre équipe de bénévoles: Cindy Bergeron, Kate Gaffney, Lisa Taylor, Rebecca Marjoram, Summer Wilson, Rowan Moore, Sarah Clarkson, et Sodiq Onaolapo.
-
-## Commenditaires
-
-Merci à nos commenditaires pour leur précieux soutien.
-
-- Fédération des science humaines (Fonds pour les initiatives d'EDID) 
-- L'Association des bibliothèques de recherche du Canada (ABRC)
-- Érudit
-- ASIS&T Canada Chapter

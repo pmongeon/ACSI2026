@@ -1,5 +1,5 @@
 ---
-title: "Retour vers le futur: 53ième congrès annuel de l'Association canadienne des sciences de l'information"
+title: "Information et réparation: 54ème congrès annuel de l'Association canadienne des sciences de l'information"
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: false
@@ -15,42 +15,42 @@ header:
 
 ## Appels à contributions
 
-Le thème de cette année, retour vers le futur, fait référence à notre retour à mode présentiel pour le congrès de l'ACSI suite à cinq congrès tenus exclusivement en ligne. Il souligne également la tradition de plus d’un demi-siècle de rencontres entre les membres de la communauté interdisciplinaire de l'ACSI pour définir et partager les valeurs et enjeux qui nous tiennent à coeur, et auxquelles nous revenons continuellement pour nous naviguer l'évolution de notre domaine. Tout comme ce thème nous ramène aux principes fondamentaux d’ouverture et d’inclusivité de l'ACSI, il nous tourne également vers l’avenir. Il pose la question : comment tirer des leçons de notre passé pour façonner notre avenir? Alors que nous nous réunissons en tant que communauté académique en ce temp présent, nous invitons les chercheurs et praticiens de notre communauté à réfléchir à nos origines, à nos destinations et aux liens qui unissent le passé et l’avenir.
-
-L'ACSI a un engagement fort envers l'ouverture et l'inclusion de diverses perspectives pour enrichir le domaine des sciences de l’information. Nous invitons les chercheurs, les praticiens et les étudiants à se joindre à nous pour explorer les multiples facettes des sciences de l’information et leur impact sur les individus, les communautés, les organisations, et la société dans son ensemble. 
-
-Nous encourageons les soumissions avec diverses méthodologies, perspectives théoriques, et thématiques, y compris mais sans s’y limiter :
-
-- Les comportements informationnels
-- La culture de l’information et l’éducation
-- La gestion et l’organisation des connaissances
-- Les technologies et systèmes d’information
-- Les médias sociaux
-- La bibliométrie et la communication savante
-- La politique et l’éthique de l’information
-- Le patrimoine culturel et la préservation
-- La gestion de l’information en santé et autres domaines
-- La diversité, l’équité et l’inclusion en sciences de l’information
+L'Association canadienne des sciences de l'information (ACSI/ACSI) invite les participants à soumettre leurs propositions pour sa 54e conférence annuelle, qui se tiendra du [15 au 19 ou du 22 au 26] juin 2026. La conférence sera gratuite et ouverte à tous, en ligne, et sera organisée par la School of Information de l'University of British Columbia.
+Appel à communications :
+Le thème de cette année, « Information et réparation », est axé sur le travail de maintenance et de réparation qui est toujours nécessaire, mais rarement salué, dans les systèmes d'information. L'attention et les ressources des chercheurs sont souvent dirigées vers la nouveauté, la conceptualisation et le design de systèmes et d'interventions innovants.
+Cette tendance risque toutefois de nous faire ignorer les occasions d'apprendre à partir de la vaste quantité de connaissances, de pratiques et d'expertise technique qui entrent dans la surveillance, l'ajustement et la gestion des changements au sein des composants critiques des systèmes d'information à long terme/continus/permanents.
+Nous sommes particulièrement intéressés par les perspectives issues des sciences de l’information sur les pratiques de rejet ou de réutilisation, sur le travail réparateur, et sur les théories de la réparation. Nous invitons des réflexions créatives et ouvertes sur ce qui est réparé et entretenu, ainsi que sur la réparation elle-même en tant que travail informationnel.
+Comme l’ACSI cherche à être un lieu d’échange pour les sciences de l'information à travers le Canada, notre conférence annuelle développe et soutient la recherche dans les domaines suivants :
+●	Recherche d'informations et comportement informationnel
+●	Littératie informationnelle et formation
+●	Gestion et organisation des connaissances
+●	Technologies et systèmes d'information
+●	Médias sociaux
+●	Bibliométrie et communication savante
+●	Politique et éthique de l'information
+●	Patrimoine culturel et préservation
+●	Gestion de l'information sur la santé
+●	Diversité, équité et inclusion dans les sciences de l'information<br>
+Les perspectives diverses (théoriques ou appliquées) ainsi que les méthodologies variées et innovantes sont les bienvenues.
 
 
 ## Types de contributions
 
-- <strong>Article</strong> : 2000-3000 mots, références non incluses.
-- <strong>Travail en cours</strong> : 1000-2000 mots, références non incluses.
-- <strong>Affiche</strong> : 500-1000 mots, références non incluses.
-- <strong>Panel</strong> : 500-1000 mots, références non incluses.
+L’ACSI accueille les propositions d'articles, de présentations éclair ou de panels axés sur la recherche empirique, théorique et pratique. Les propositions peuvent être soumises en anglais ou en français. Toutes les propositions seront soumises à un examen par les pairs. Les articles et les présentations éclair doivent être anonymisés pour la soumission ; les soumissions de panels doivent inclure des informations d'identification.
 
-## Soumission
+- <strong>Article</strong> : présentations orales de 20 minutes sur des projets achevés ou bien avancés portant sur des sujets pouvant faire l'objet d'une publication dans des revues scientifiques. Les propositions rendant compte de recherches achevées ou en cours seront privilégiées. Les perspectives diverses (théoriques ou appliquées) ainsi que les méthodologies variées et innovantes sont les bienvenues. Les propositions doivent prendre la forme d'un résumé détaillé (environ 1 000 à 1 500 mots, références non comprises).
+- <strong>Présentations éclair</strong> : présentations orales de 5 minutes couvrant un seul élément d'un travail en cours ou une nouvelle idée. Les propositions de présentation éclair visant à couvrir l'ensemble d'un projet de recherche ne seront pas acceptées. L'objectif d’une présentation éclair est de lancer une discussion, de recueillir des commentaires sur une idée ou de trouver des collaborateurs. Les propositions doivent prendre la forme d'un résumé de 250 mots (hors références).
+- <strong>Panels</strong> : présentations orales de 90 minutes par trois auteurs ou plus sur des domaines émergents, des tendances ou des points de vue contrastés, incluant un temps pour les questions ou la discussion. Les panels sont l'occasion d'engager une discussion sur des préoccupations communes, y compris celles qui ne sont pas abordées dans les recherches achevées ou qui ne sont pas encore suffisamment reconnues. Les propositions ne doivent pas se limiter à une série de présentations d'articles connexes ; nous encourageons les propositions qui offrent des occasions créatives et uniques d'engagement et de discussion avec le public dans le cadre de la session de panel. Nous recommandons trois à cinq panélistes plus un modérateur ; il sera possible de modifier la liste des panélistes après acceptation. Les propositions doivent prendre la forme d'un résumé détaillé (environ 1 000 à 1 500 mots, hors références), qui identifie le sujet à discuter, donne un aperçu de la structure du panel et inclut les qualifications et contributions pertinentes de chaque panéliste participant.
 
-<strong>Les soumissions pour le congrès de l'ACSI 2025 sont fermées.</strong>
 
 ## Forum des étudiants
 
-Nous sommes heureux d’inviter les étudiants de maîtrise et de doctorat à n’importe quel stade de leur programme au forum des étudiants de l'ACSI. Le forum vise à permettre aux étudiants de discuter de leurs projets de recherche, d’obtenir de la rétroaction et de tisser des liens. Veuillez être prêts à présenter de manière informelle un aspect de votre recherche pendant 5 à 10 minutes. Plus d’informations sur la participation au Forum seront fournies lors de l’ouverture des inscriptions en mars.
+Nous sommes heureux d'inviter les étudiants à la maîtrise ou au doctorat, quel que soit le stade de leur programme, au Forum de recherche étudiante de l'ACSI. Ce forum a pour objectif de permettre aux étudiants des cycles supérieurs de discuter de leurs projets de recherche, d'obtenir des commentaires et d'échanger avec d'autres étudiants. Préparez-vous à présenter de manière informelle un aspect de votre recherche pendant 5 à 10 minutes. De plus amples informations sur la participation au forum seront fournies lors de l'ouverture des inscriptions en mars.
+
 
 ## Dates importantes 
 
-- <strong>Date limite de soumission</strong> : ~~8 janvier 2025~~ 20 janvier 2025, minuit heure du Pacifique.
-- <strong>Notification d’acceptation</strong> : Au plus tard le 15 mars 2025.
-- <strong>Soumission des versions finales</strong> : Au plus tard le 30 avril 2025.
-- <strong>Conférence</strong> : 27-29 mai 2025.
+- Date limite de soumission : <strong>31 janvier</strong>
+- Date limite pour les évaluations par les pairs : 1er mars
+- Notification aux auteurs : 23 mars
+- Date limite pour les soumissions finales : 11 mai

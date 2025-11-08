@@ -21,16 +21,16 @@ Le thème de cette année, « Information et réparation », est axé sur le tra
 Cette tendance risque toutefois de nous faire ignorer les occasions d'apprendre à partir de la vaste quantité de connaissances, de pratiques et d'expertise technique qui entrent dans la surveillance, l'ajustement et la gestion des changements au sein des composants critiques des systèmes d'information à long terme/continus/permanents.
 Nous sommes particulièrement intéressés par les perspectives issues des sciences de l’information sur les pratiques de rejet ou de réutilisation, sur le travail réparateur, et sur les théories de la réparation. Nous invitons des réflexions créatives et ouvertes sur ce qui est réparé et entretenu, ainsi que sur la réparation elle-même en tant que travail informationnel.
 Comme l’ACSI cherche à être un lieu d’échange pour les sciences de l'information à travers le Canada, notre conférence annuelle développe et soutient la recherche dans les domaines suivants :
-●	Recherche d'informations et comportement informationnel
-●	Littératie informationnelle et formation
-●	Gestion et organisation des connaissances
-●	Technologies et systèmes d'information
-●	Médias sociaux
-●	Bibliométrie et communication savante
-●	Politique et éthique de l'information
-●	Patrimoine culturel et préservation
-●	Gestion de l'information sur la santé
-●	Diversité, équité et inclusion dans les sciences de l'information<br>
+- Recherche d'informations et comportement informationnel
+- Littératie informationnelle et formation
+- Gestion et organisation des connaissances
+- Technologies et systèmes d'information
+- Médias sociaux
+- Bibliométrie et communication savante
+- Politique et éthique de l'information
+- Patrimoine culturel et préservation
+- Gestion de l'information sur la santé
+- Diversité, équité et inclusion dans les sciences de l'information<br>
 Les perspectives diverses (théoriques ou appliquées) ainsi que les méthodologies variées et innovantes sont les bienvenues.
 
 

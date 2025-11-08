@@ -57,10 +57,10 @@ Les perspectives diverses (théoriques ou appliquées) ainsi que les méthodolog
 
 
 ## Comité organisateur
-Julia Bullard
-Melissa Nelson
-Cameron Pierson
-Lisa Nathan
+Julia Bullard<br>
+Melissa Nelson<br>
+Cameron Pierson<br>
+Lisa Nathan<br>
 
 
 Pour plus d’informations, contactez-nous à l’adresse suivante : <a href=“mailto:conference@cais-acsi.ca”>conference@cais-acsi.ca</a>.

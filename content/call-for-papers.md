@@ -16,8 +16,8 @@ header:
 ## Appels à contributions
 
 L'Association canadienne des sciences de l'information (ACSI/ACSI) invite les participants à soumettre leurs propositions pour sa 54e conférence annuelle, qui se tiendra du [15 au 19 ou du 22 au 26] juin 2026. La conférence sera gratuite et ouverte à tous, en ligne, et sera organisée par la School of Information de l'University of British Columbia.
-
-
+<br>
+<br>
 Le thème de cette année, « Information et réparation », est axé sur le travail de maintenance et de réparation qui est toujours nécessaire, mais rarement salué, dans les systèmes d'information. L'attention et les ressources des chercheurs sont souvent dirigées vers la nouveauté, la conceptualisation et le design de systèmes et d'interventions innovants.
 Cette tendance risque toutefois de nous faire ignorer les occasions d'apprendre à partir de la vaste quantité de connaissances, de pratiques et d'expertise technique qui entrent dans la surveillance, l'ajustement et la gestion des changements au sein des composants critiques des systèmes d'information à long terme/continus/permanents.
 Nous sommes particulièrement intéressés par les perspectives issues des sciences de l’information sur les pratiques de rejet ou de réutilisation, sur le travail réparateur, et sur les théories de la réparation. Nous invitons des réflexions créatives et ouvertes sur ce qui est réparé et entretenu, ainsi que sur la réparation elle-même en tant que travail informationnel.

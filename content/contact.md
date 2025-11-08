@@ -13,12 +13,11 @@ header:
 ---
 ## Comité organisateur
 
-- Philippe Mongeon, Dalhousie University
-- Maddie Hare, University of Ottawa
-- Geoff Krause, Dalhousie University
-- Constance Poitras, Université de Montréal
-- Poppy Riddle, Dalhousie University
-- Sandra Toze, Dalhousie University
+Julia Bullard<br>
+Melissa Nelson<br>
+Cameron Pierson<br>
+Lisa Nathan<br>
+
 
 ## Contactez-nous
 

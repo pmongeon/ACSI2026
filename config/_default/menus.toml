@@ -3,35 +3,35 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-#[[main]]
-#  name = "Accueil"
-#  url = "#about"
-#  weight = 10
-
-#[[main]]
-#  name = "Appel à contributions"
-#  url = "call-for-papers/"
-#  weight = 15
+[[main]]
+  name = "Accueil"
+  url = "#about"
+  weight = 10
 
 [[main]]
-  name = "Lieu"
-  url = "venue/"
-  weight = 18 
+  name = "Appel à contributions"
+  url = "call-for-papers/"
+  weight = 15
+
+#[[main]]
+#  name = "Lieu"
+#  url = "venue/"
+#  weight = 18 
 
 #[[main]]
 #  name = "Inscription"
 #  url = "registration/"
 #  weight = 20
 
-[[main]]
-  name = "Programme"
-  url = "program/"
-  weight = 30
+#[[main]]
+#  name = "Programme"
+#  url = "program/"
+#  weight = 30
   
-[[main]]
-  name = " Activités pré-congrès"
-  url = "aligned-events/"
-  weight = 40
+#[[main]]
+#  name = " Activités pré-congrès"
+#  url = "aligned-events/"
+#  weight = 40
 
 #[[main]]
 #  name = "Commenditaires"
@@ -46,6 +46,6 @@
 
 [[main]]
   name = "English"
-  url = "https://cais2025.ca"
+  url = "https://cais2026.ca"
   weight = 70
 

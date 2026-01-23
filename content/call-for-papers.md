@@ -48,7 +48,7 @@ Veuillez utiliser [le modèle de soumission](https://github.com/pmongeon/CAIS202
 
 ## Forum des étudiants
 
-Nous sommes heureux d'inviter les étudiants à la maîtrise ou au doctorat, quel que soit le stade de leur programme, au Forum de recherche étudiante de l'ACSI. Ce forum a pour objectif de permettre aux étudiants des cycles supérieurs de discuter de leurs projets de recherche, d'obtenir des commentaires et d'échanger avec d'autres étudiants. Préparez-vous à présenter de manière informelle un aspect de votre recherche pendant 5 à 10 minutes. De plus amples informations sur la participation au forum seront fournies lors de l'ouverture des inscriptions en mars.
+Nous sommes heureux d'inviter les étudiants à la maîtrise ou au doctorat, quel que soit le stade de leur programme, au Forum de recherche étudiante de l'ACSI. Ce forum a pour objectif de permettre aux étudiants des cycles supérieurs de discuter de leurs projets de recherche, d'obtenir des commentaires et d'échanger avec d'autres étudiants. Préparez-vous à présenter de manière informelle un aspect de votre recherche pendant 5 à 10 minutes. Pour participer, veuillez remplir [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLScj0ug404Kj7ahbgQZ8Lfpc7ICx-qoyIgJ21IsOlKBMxxcuDQ/viewform).
 
 
 ## Dates importantes 

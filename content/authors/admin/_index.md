@@ -53,6 +53,7 @@ Les perspectives diverses (théoriques ou appliquées) ainsi que les méthodolog
 - Date limite de soumission : <strong>31 janvier</strong>
 - Date limite pour les évaluations par les pairs : 1er mars
 - Notification aux auteurs : 23 mars
+- Date limite des candidatures pour le forum étudiant : 31 mars
 - Date limite pour les soumissions finales : 11 mai
 
 

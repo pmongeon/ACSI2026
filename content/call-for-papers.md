@@ -53,7 +53,7 @@ Nous sommes heureux d'inviter les étudiants à la maîtrise ou au doctorat, que
 
 ## Dates importantes 
 
-- Date limite de soumission : <strong>31 janvier</strong>
+- Date limite de soumission : <strong>~~31 janvier~~ 7 février</strong>
 - Date limite pour les évaluations par les pairs : 1er mars
 - Notification aux auteurs : 23 mars
 - Date limite pour les soumissions finales : 11 mai

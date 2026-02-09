@@ -48,6 +48,8 @@ Comme l’ACSI cherche à être un lieu d’échange pour les sciences de l'info
 Les perspectives diverses (théoriques ou appliquées) ainsi que les méthodologies variées et innovantes sont les bienvenues.
 
 
+### Les prix CAIS/ACSI 
+Chaque année, les prix CAIS/ACSI récompensent des travaux exceptionnels issus de la recherche de maîtrise, des leaders émergents, des thèses de doctorat, des réalisations de carrière et des communications de conférences. Les nominations sont maintenant ouvertes! Veuillez consulter la [page des prix CAIS-ACSI](https://cais-acsi.ca/Awards) pour plus d'informations. **La date limite est le mercredi 8 avril à minuit, heure normale de l'Est (HNE)**
 
 ## Dates importantes
 - Date limite de soumission : <strong>~~31 janvier~~ 7 février </strong>

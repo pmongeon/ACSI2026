@@ -28,7 +28,7 @@ social:
 
 ## Bienvenue au congrès de l'ACSI 2026
 
-L'Association canadienne des sciences de l'information (ACSI/ACSI) invite les participants à soumettre leurs propositions pour sa 54e conférence annuelle, qui se tiendra du [15 au 19 ou du 22 au 26] juin 2026. La conférence sera gratuite et ouverte à tous, en ligne, et sera organisée par la School of Information de l'University of British Columbia.
+L'Association canadienne des sciences de l'information (ACSI/ACSI) invite les participants à soumettre leurs propositions pour sa 54e conférence annuelle, qui se tiendra du 22 au 26 juin 2026. La conférence sera gratuite et ouverte à tous, en ligne, et sera organisée par la School of Information de l'University of British Columbia.
 
 <strong>Appel à communications:</strong>
 Le thème de cette année, « Information et réparation », est axé sur le travail de maintenance et de réparation qui est toujours nécessaire, mais rarement salué, dans les systèmes d'information. L'attention et les ressources des chercheurs sont souvent dirigées vers la nouveauté, la conceptualisation et le design de systèmes et d'interventions innovants.

@@ -63,7 +63,6 @@ Chaque année, les prix CAIS/ACSI récompensent des travaux exceptionnels issus 
 Julia Bullard<br>
 Melissa Nelson<br>
 Cameron Pierson<br>
-Lisa Nathan<br>
 
 
 Pour plus d’informations, contactez-nous à l’adresse suivante : <a href=“mailto:conference@cais-acsi.ca”>conference@cais-acsi.ca</a>.

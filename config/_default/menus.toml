@@ -23,7 +23,7 @@
 #  url = "registration/"
 #  weight = 20
 
-#[[main]]
+[[main]]
   name = "Programme"
   url = "program/"
   weight = 30

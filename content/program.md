@@ -12,13 +12,13 @@ header:
   image: ""
 ---
 
-The full conference proceedings are available on <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/issue/view/67">Proceedings of the Annual Conference of CAIS</a>.
+Les actes complets de la conférence sont disponibles sur <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/issue/view/67">Actes de la conférence annuelle de ACSI</a>.
 
 
-## Conference Program
+## Programme de la conférence
 
-- Please note that all times are in <strong>Pacific Daylight Time (PDT).</strong>
-- Paper presentations will be 20 minutes and lightning talks 5 minutes. Rather than questions immediately following each presentation, each session will end with a common question period. Each session will have an assigned moderator and volunteer to assist with technology. Panel presentations will not be assigned a moderator and will manage their own question period. Presenters will use screen sharing on Zoom; have your presentation files ready in the format you wish you present in.
+- Veuillez noter que toutes les heures sont indiquées en <strong>heure d'été du Pacifique (PDT)</strong>.
+- Les présentations orales dureront 20 minutes et les exposés éclair 5 minutes. Au lieu de questions immédiatement après chaque présentation, chaque session se terminera par une séance de questions-réponses commune. Chaque session aura un modérateur désigné et un bénévole sera là pour l'assistance technique. Les tables rondes n'auront pas de modérateur et géreront elles-mêmes leur séance de questions-réponses. Les présentateurs utiliseront le partage d'écran sur Zoom ; veuillez préparer vos fichiers de présentation au format souhaité.
 
 <table style="width:100%">
   <tr>
@@ -317,7 +317,7 @@ The full conference proceedings are available on <a href="https://journals.libra
 
 
 ## Our Sponsors
-CAIS 2026 is proud to be sponsored by the following organizations:
+CAIS 2026 est fier d'être parrainé par les organisations suivantes:
 
 - The Canadian Association of Research Libraries (CARL)
 - Érudit
